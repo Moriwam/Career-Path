@@ -1,0 +1,94 @@
+body,
+.sp-preloader {
+  background-color: #ffffff;
+  color: #606060;
+}
+.sp-preloader > div:after {
+  background: #ffffff;
+}
+a,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover,
+.sp-megamenu-parent .sp-dropdown li.active > a,
+.offcanvas-menu .menu-parent-open a,
+.sppb-animated-number-title,
+.tp-caption a.btn-white,
+.sp-transparent .header-sticky .sp-megamenu-parent > li a,
+.sp-transparent .header-sticky .sp-megamenu-parent > li:hover > a,
+.sp-transparent .header-sticky #sp-menu ul.social-icons a,
+.sp-transparent .header-sticky .search-trigger:not([href]):not([tabindex]),
+.sp-transparent
+  .header-sticky
+  .search-trigger:not([href]):not([tabindex]):hover {
+  color: #101010;
+}
+.sp-transparent .sp-megamenu-parent > li > a,
+.sp-transparent .sp-megamenu-parent .sp-mega-group > li > a,
+.sp-transparent #sp-menu ul.social-icons a,
+.sp-transparent .search-trigger:not([href]):not([tabindex]),
+.sp-transparent .search-trigger:not([href]):not([tabindex]):hover,
+.offcanvas-menu a:hover,
+.overlay-blog .article-info,
+.overlay-blog .article-info a,
+.tp-caption a.btn-primary {
+  color: #ffffff;
+}
+a:hover,
+a:focus,
+a:active,
+.article-list .article .article-header h2 a:hover,
+.white-text .sppb-btn-link i:before,
+.white-text .sppb-btn-link:hover,
+.white-text.sppb-btn-link:hover,
+.sppb-panel-heading:hover,
+.sppb-panel-heading:hover .sppb-toggle-direction,
+.sppb-panel-heading.active,
+.sppb-panel-heading.active .sppb-toggle-direction,
+.header-sticky .sp-megamenu-parent > li.active > a,
+.header-sticky #offcanvas-toggler,
+.head-login .btn,
+.header-sticky .head-login a.link,
+.header-sticky.sp-transparent .sp-megamenu-parent > li.active > a,
+.header-sticky.sp-transparent .sp-megamenu-parent > li.active:hover > a,
+.sp-megamenu-parent > li > a:hover,
+.sp-megamenu-parent > li.active > a,
+.sp-megamenu-parent > li.active:hover > a,
+.mfp-readmore,
+.mfp_carousel_skin_default .mfp_carousel_item .mfp_carousel_title a:hover,
+.contact-address dt:before,
+#sp-logo-right .sp-contact-info .fa,
+#sp-left .sp-module ul > li:before,
+#sp-right .sp-module ul > li:before,
+#sp-left .sp-module .sp-module-title,
+#sp-right .sp-module .sp-module-title,
+#sp-bottom .sp-module-title,
+#sp-bottom h3.sppb-addon-title,
+#sp-bottom a:hover,
+span.sppb-addon-title,
+.sppb-addon-title span,
+.sppb-icon .sppb-icon-inner,
+.sppb-animated-number,
+.article-list .article .readmore a {
+  color: #308f9f;
+}
+#sp-logo-right .sp-contact-info .fa {
+  border-color: #308f9f;
+}
+.btn-primary,
+.sppb-btn.sppb-btn-primary,
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner,
+.sp-simpleportfolio .sp-simpleportfolio-item:hover .sp-simpleportfolio-info,
+.sp-simpleportfolio .sp-simpleportfolio-item .sp-simpleportfolio-info:hover,
+.sp-simpleportfolio .sp-simpleportfolio-item .sp-simpleportfolio-btns a:hover,
+.head-login .dropdown-menu,
+.mfp_default_skin_default .mfp_default_item .mfp_cat,
+.header-sticky .sp-menu-right .btn-primary,
+.primary-bg,
+.white-text a.sppb-btn-default,
+#sp-footer {
+  border-color: transparent;
+  background-color: #308f9f;
+}
+.btn:hover,
+.btn-primary:hover {
+  background-color: #308f9f;
+}
